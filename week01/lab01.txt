@@ -19,4 +19,5 @@ drwxr-xr-x  2 sarah.dewi51 StafCS 4096 Feb 13 09:46 week08
 drwxr-xr-x  2 sarah.dewi51 StafCS 4096 Feb 13 09:47 week09
 drwxr-xr-x  2 sarah.dewi51 StafCS 4096 Feb 13 09:47 week10
 drwxr-xr-x  2 sarah.dewi51 StafCS 4096 Feb 13 09:47 xtra
-/home/fasilkom/mahasiswa/s/sarah.dewi51/os171/week01
+/home/fasilkom/mahasiswa/s/sarah.dewi51/os171/week01  
+Today is 13 Feb 2017 at 11:05:38
