@@ -1,0 +1,21 @@
+w00-170207-13-LR-About: Introduction to Operating System, From: Lecturer
+w00-170207-13-LR-About: Introduction to Operating System, From: Lecturer
+w00-170207-14-LR-About: Introduction to Operating System, From: Lecturer
+w00-170207-14-LR-About: Introduction to Operating System, From: Lecturer
+w00-170209-13-LR-About: Operating System Structures, From: Lecturer
+w00-170209-13-LR-About: Operating System Structures, From: Lecturer
+w00-170209-14-LR-About: Watching demo from lecturer
+w00-170209-16-PS-About: GITHUB Learning
+w00-170209-16-PS-About: GITHUB Learning
+w01-170213-10-PS-About: Week01 Assignment
+w01-170213-10-PS-About: Week01 Assignment
+w01-170213-11-PS-About: Week01 Assignment
+w01-170214-13-LR-About: Hak Kekayaan Intelektual, From: Lecturer
+w01-170214-13-LR-About: HAk Kekayaan Intelektual, From: Lecturer
+w01-170214-14-LR-About: Watching demo from lecturer
+w01-170214-14-LR-About: Watching demo from lecturer
+w01-170216-13-LR-About: Scripting, From: Lecturer
+w01-170214-13-LR-About: Scripting, From: Lecturer
+w01-170214-14-LR-About: Scripting, From: Lecturer
+w01-170215-19-PS-About: Scripting
+w02-170220-09-PS-About: Log - additional task
